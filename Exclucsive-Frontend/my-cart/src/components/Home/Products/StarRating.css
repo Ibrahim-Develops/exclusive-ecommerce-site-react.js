@@ -1,0 +1,25 @@
+.star-rating {
+    display: flex;
+  }
+  
+  .star {
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+    stroke: gray;
+    fill: none;
+  }
+  
+  .star.filled {
+    stroke: gold;
+    fill: gold;
+  }
+  
+  .star:hover {
+    transform: scale(1.2);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .star-rating label {
+    margin: 0 3px;
+  }
+  

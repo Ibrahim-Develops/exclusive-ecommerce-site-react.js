@@ -4,17 +4,17 @@
 <br>
 
 
-<img src="https://github.com/Ibrahim-Develops/exclusive-ecommerce-site/blob/main/Exclucsive-Frontend/Exclusive1.png" alt="" width="100%" height="600">
+<img src="https://github.com/Ibrahim-Develops/exclusive-ecommerce-site/blob/main/Exclucsive-Frontend/Exclusive1.png" alt="" width="100%" height="550">
 
 <br>
 <br>
 
-<img src="https://github.com/Ibrahim-Develops/exclusive-ecommerce-site/blob/main/Exclucsive-Frontend/Exclusive2.png" alt="" width="100%" height="600">
+<img src="https://github.com/Ibrahim-Develops/exclusive-ecommerce-site/blob/main/Exclucsive-Frontend/Exclusive2.png" alt="" width="100%" height="550">
 
 <br>
 <br>
 
-<img src="https://github.com/Ibrahim-Develops/exclusive-ecommerce-site/blob/main/Exclucsive-Frontend/Exclusive3.png" alt="" width="100%" height="600">
+<img src="https://github.com/Ibrahim-Develops/exclusive-ecommerce-site/blob/main/Exclucsive-Frontend/Exclusive3.png" alt="" width="100%" height="550">
 
 <br>
 

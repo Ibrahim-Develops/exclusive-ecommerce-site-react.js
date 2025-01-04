@@ -1,23 +1,3 @@
-<h1 align="center">Over View</h1>
-
-<br>
-<br>
-
-
-<img src="https://github.com/Ibrahim-Develops/exclusive-ecommerce-site/blob/main/Exclucsive-Frontend/Exclusive1.png" alt="" width="100%" height="525">
-
-<br>
-<br>
-
-<img src="https://github.com/Ibrahim-Develops/exclusive-ecommerce-site/blob/main/Exclucsive-Frontend/Exclusive2.png" alt="" width="100%" height="525">
-
-<br>
-<br>
-
-<img src="https://github.com/Ibrahim-Develops/exclusive-ecommerce-site/blob/main/Exclucsive-Frontend/Exclusive3.png" alt="" width="100%" height="525">
-
-<br>
-
 ## **Exclusive E-commerce Site**
 
 This repository contains the source code for the **Exclusive E-commerce Site**, a fully functional e-commerce platform built using **React** and **Redux**. The site is designed to offer a seamless shopping experience, with features like product browsing, cart management, dynamic pricing, and order confirmations. It's optimized for a modern user interface and integrates Email.js for communication, making it a comprehensive e-commerce solution.
